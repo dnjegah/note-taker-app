@@ -3,7 +3,7 @@ const path = require('path');
 const fs = require('fs')
 
 // npm package that allows for unique ids to be created
-var uniqid = require('uniqid');
+const uniqid = require('uniqid');
 
 
 // routing
